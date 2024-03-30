@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    align-items: center;
+    box-shadow: blue;
+}
+.nav>img{
+    width: 40px;
+    border-radius: 10% 100%;
+    background-color: black;
+}
+.end{
+    margin-left: auto;
+}
